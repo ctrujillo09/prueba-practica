@@ -1,0 +1,4 @@
+2025-07-02 18:30:49,373 - INFO - librodiario.py:68 - Transacción agregada: LibroDiario.Transaccion(fecha=datetime.datetime(2025, 6, 18, 0, 0), descripcion='Compra de laptop', monto=780, tipo='egreso')
+2025-07-02 18:30:49,373 - INFO - librodiario.py:68 - Transacción agregada: LibroDiario.Transaccion(fecha=datetime.datetime(2025, 6, 18, 0, 0), descripcion='Venta de sensor TK-110', monto=780, tipo='ingreso')
+2025-07-02 18:30:49,373 - INFO - librodiario.py:68 - Transacción agregada: LibroDiario.Transaccion(fecha=datetime.datetime(2025, 6, 18, 0, 0), descripcion='Compra de software', monto=250, tipo='egreso')
+2025-07-02 18:30:49,383 - INFO - librodiario.py:68 - Transacción agregada: LibroDiario.Transaccion(fecha=datetime.datetime(2025, 6, 18, 0, 0), descripcion='Compra de insumos de oficina', monto=85.6, tipo='egreso')
